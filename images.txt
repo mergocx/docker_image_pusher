@@ -1,2 +1,1 @@
-nginx
-TOMCAT:9.0-JDK8
+tomcat:9.0-jdk8
